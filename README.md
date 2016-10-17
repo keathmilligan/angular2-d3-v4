@@ -1,4 +1,8 @@
-# Angular2D3js4
+# Using D3.js version 4 with Angular 2
+
+Simple example of creating a reusable D3 chart component.
+
+![screenshot](angular2-d3v4.gif)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 
