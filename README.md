@@ -4,6 +4,10 @@ Simple example of creating a reusable D3 chart component.
 
 ![screenshot](angular2-d3v4.gif)
 
+See http://keathmilligan.net/create-reusable-chart-components-with-angular-2-and-d3-js-version-4/ for more information about this example.
+
+---
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 
 ## Development server
