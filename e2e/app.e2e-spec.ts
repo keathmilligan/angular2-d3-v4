@@ -1,10 +1,10 @@
-import { Angular2D3js4Page } from './app.po';
+import { Angular2D3V4Page } from './app.po';
 
-describe('angular2-d3js4 App', function() {
-  let page: Angular2D3js4Page;
+describe('angular2-d3-v4 App', function() {
+  let page: Angular2D3V4Page;
 
   beforeEach(() => {
-    page = new Angular2D3js4Page();
+    page = new Angular2D3V4Page();
   });
 
   it('should display message saying app works', () => {
