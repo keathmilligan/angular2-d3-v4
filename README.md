@@ -1,3 +1,7 @@
+__This project is deprecated.__ _Please see https://github.com/keathmilligan/angular-d3js._
+
+---
+
 # Angular2D3V4
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
